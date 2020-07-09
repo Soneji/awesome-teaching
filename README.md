@@ -1,15 +1,22 @@
 # awesome-teaching
 
-a repository of awesome teaching resources, mainly for teaching coding/programming.
+a repository of **free** awesome teaching resources, mainly for teaching coding and programming.
 
 ## Pre-Programming Languages
 
-[Blockly Games](https://blockly.games/) - Website with lots of puzzles to familiarise kids with basics of drag and drop coding
+- [Scratch](https://scratch.mit.edu/) - Drag and drop game design software
+- [Typing Club](https://www.typingclub.com/) - Learn touch-typing
+- [Blockly Games](https://blockly.games/) - Website with lots of puzzles to familiarise kids with basics of drag and drop coding
 
 ## Python
 
-[Practice Python](https://practicepython.org) - Various python challenges for beginners
+- [Practice Python](https://practicepython.org) - Various python challenges for beginners
+- [CodeHS](https://codehs.com/) - Learn advanced Python, for high school aged kids
+
+## HTML
+
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Learn HTML and JavaScript
 
 ## Classroom Resources
 
-[Break](https://masterdracula.com/break/) - Clock with customisable large text
+- [Break](https://masterdracula.com/break/) - Clock with customisable large text
