@@ -17,6 +17,10 @@ a repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Learn HTML and JavaScript
 
+## Shell Scripting
+
+- [Bash Scripting Cheat Sheet](https://devhints.io/bash)
+
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text
