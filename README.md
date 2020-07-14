@@ -21,6 +21,10 @@ a repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [Bash Scripting Cheat Sheet](https://devhints.io/bash)
 
+## Cryptography
+
+- [RSA Calculator](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
+
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text
