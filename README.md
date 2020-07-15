@@ -13,13 +13,17 @@ a repository of **free** awesome teaching resources, mainly for teaching coding 
 - [Practice Python](https://practicepython.org) - Various python challenges for beginners
 - [CodeHS](https://codehs.com/) - Learn advanced Python, for high school aged kids
 
-## HTML
+## C
 
-- [FreeCodeCamp](https://www.freecodecamp.org/) - Learn HTML and JavaScript
+- [Learn C](https://www.learn-c.org/)
 
 ## Shell Scripting
 
 - [Bash Scripting Cheat Sheet](https://devhints.io/bash)
+
+## HTML
+
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Learn HTML and JavaScript
 
 ## Cryptography
 
