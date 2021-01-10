@@ -4,8 +4,8 @@ A curated list of awesome resources for teaching kids programming.
 A repository of **free** awesome teaching resources, mainly for teaching coding and programming.
 
 # Table of Contents
-<!--ts-->
 
+<!--ts--> 
 <!--te-->
 
 ## Pre-Programming Languages
