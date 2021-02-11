@@ -38,6 +38,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## HTML
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Learn HTML and JavaScript.
+- [Real Favicon Generator](https://realfavicongenerator.net/) - The best favicon generator
 
 ## Cryptography
 
