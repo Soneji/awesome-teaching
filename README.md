@@ -31,7 +31,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [Learn C](https://www.learn-c.org/) - Learn the C Programming Language.
 - [Valgrind](https://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
-- [Valgrind for Mac](https://github.com/sowson/valgrind) - MacOS fork of Valgrind
+- [Valgrind for Mac](https://github.com/sowson/valgrind) - MacOS fork of Valgrind.
 
 ## Shell Scripting
 
