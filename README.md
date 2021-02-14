@@ -1,5 +1,7 @@
 # Awesome Teaching [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img src="https://repository-images.githubusercontent.com/278381805/7d8e4c00-c6d6-11ea-983f-88bd75241241">
+
 A curated list of awesome resources for teaching kids programming.
 
 A repository of **free** awesome teaching resources, mainly for teaching coding and programming.
