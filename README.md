@@ -28,6 +28,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [Practice Python](https://practicepython.org) - Various python challenges for beginners.
 - [CodeHS](https://codehs.com/) - Learn advanced Python, for high school aged kids.
+- [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md) - 100+ Python challenging programming exercises for Python 3. 
 
 ## C
 
