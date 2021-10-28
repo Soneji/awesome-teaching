@@ -49,6 +49,10 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [RSA Calculator.](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
 
+## Machine Learning
+
+- [Teachable Machines](https://www.instagram.com/tv/CGn-75ngGbX/?igshid=jpqqnpyf3auc) - A video from @dale_on_ai about teachable machines.
+
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
