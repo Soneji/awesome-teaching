@@ -51,7 +51,8 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 ## Machine Learning
 
-- [Teachable Machines](https://www.instagram.com/tv/CGn-75ngGbX/?igshid=jpqqnpyf3auc) - A video from @dale_on_ai about teachable machines.
+- [Teachable Machines Official Website](https://teachablemachine.withgoogle.com/) - The official site for google's teachable machines learning model.
+- [Teachable Machines Video Intro](https://www.instagram.com/tv/CGn-75ngGbX/?igshid=jpqqnpyf3auc) - A video from @dale_on_ai about teachable machines.
 
 ## Classroom Resources
 
