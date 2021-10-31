@@ -14,6 +14,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 - [Shell Scripting](#shell-scripting)
 - [HTML](#html)
 - [Cryptography](#cryptography)
+- [Machine Learning](#machine-learning)
 - [Classroom Resources](#classroom-resources)
 
 <!--te-->
@@ -48,6 +49,11 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## Cryptography
 
 - [RSA Calculator.](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
+
+## Machine Learning
+
+- [Teachable Machines Official Website](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+- [Teachable Machines Video Intro](https://www.instagram.com/tv/CGn-75ngGbX/?igshid=jpqqnpyf3auc) - A video from @dale_on_ai about teachable machines.
 
 ## Classroom Resources
 
