@@ -14,6 +14,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 - [Shell Scripting](#shell-scripting)
 - [HTML](#html)
 - [Cryptography](#cryptography)
+- [Machine Learning](#machine-learning)
 - [Classroom Resources](#classroom-resources)
 
 <!--te-->
