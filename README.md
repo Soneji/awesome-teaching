@@ -16,6 +16,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 - [Cryptography](#cryptography)
 - [Machine Learning](#machine-learning)
 - [Classroom Resources](#classroom-resources)
+- [Wargames](#wargames)
 
 <!--te-->
 
@@ -29,12 +30,12 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [Practice Python](https://practicepython.org) - Various python challenges for beginners.
 - [CodeHS](https://codehs.com/) - Learn advanced Python, for high school aged kids.
-- [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md) - 100+ Python challenging programming exercises for Python 3. 
+- [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md) - 100+ Python[...] 
 
 ## C
 
 - [Learn C](https://www.learn-c.org/) - Learn the C Programming Language.
-- [Valgrind](https://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
+- [Valgrind](https://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management an[...] 
 - [Valgrind for Mac](https://github.com/sowson/valgrind) - macOS fork of Valgrind.
 
 ## Shell Scripting
@@ -52,9 +53,13 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 ## Machine Learning
 
-- [Teachable Machines Official Website](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+- [Teachable Machines Official Website](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create machine learning mode[...] 
 - [Teachable Machines Video Intro](https://www.instagram.com/tv/CGn-75ngGbX/?igshid=jpqqnpyf3auc) - A video from @dale_on_ai about teachable machines.
 
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
+
+## Wargames
+
+- [Bandit Wargames](https://overthewire.org/wargames/bandit/) - A wargame that teaches the basics of Linux commands and security concepts.
