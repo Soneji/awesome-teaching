@@ -59,6 +59,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
+- [Atomic Productivity](https://atomicproductivity.com/) - Free classroom-friendly focus tools: pomodoro and visual timers, sound mixer, timebox planner. No signup.
 
 ## Wargames
 
