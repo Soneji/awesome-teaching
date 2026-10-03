@@ -59,6 +59,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
+- [Large Print Maker](https://largeprintmaker.com/) - Free printable large-print worksheets and charts: word searches with answer keys, sudoku, calendars, alphabet and number charts; PDFs generate in the browser.
 
 ## Wargames
 
