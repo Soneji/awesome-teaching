@@ -24,6 +24,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 
 - [Scratch](https://scratch.mit.edu/) - Drag and drop game design software.
 - [Typing Club](https://www.typingclub.com/) - Learn touch-typing.
+- [Typing Speed Test for Kids](https://typing.rerivo.com/typing-test-for-kids.html) - Free kid-friendly typing practice with no sign up and no ads in the typing area.
 - [Blockly Games](https://blockly.games/) - Website with lots of puzzles to familiarise kids with basics of drag and drop coding.
 
 ## Python
