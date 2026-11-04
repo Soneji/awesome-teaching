@@ -37,7 +37,6 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 - [Learn C](https://www.learn-c.org/) - Learn the C Programming Language.
 - [Valgrind](https://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management an[...] 
 - [Valgrind for Mac](https://github.com/sowson/valgrind) - macOS fork of Valgrind.
-- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## Shell Scripting
 
@@ -60,6 +59,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## Wargames
 
