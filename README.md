@@ -59,6 +59,7 @@ A repository of **free** awesome teaching resources, mainly for teaching coding 
 ## Classroom Resources
 
 - [Break](https://masterdracula.com/break/) - Clock with customisable large text.
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## Wargames
 
